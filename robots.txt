@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idacaecu.github.io/EQx/sitemap_index.txt
+Sitemap: https://idacaecu.github.io/Kvt/sitemap_index.txt
+Sitemap: https://idacaecu.github.io/OSc/sitemap_index.txt
+Sitemap: https://idacaecu.github.io/kAc/sitemap_index.txt
